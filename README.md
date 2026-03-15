@@ -48,9 +48,10 @@ Interactive Design: Demonstrating the AI chatbot interface and smart dashboards.
 
 
 👥 Authors (Group G)
-João Neves (al81410)
 
 Diogo Macedo (al80981)
+
+João Neves (al81410)
 
 Tiago Rei (al80925)
 
